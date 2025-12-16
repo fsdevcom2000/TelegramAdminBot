@@ -106,7 +106,7 @@ It supports full-screen screenshots, system info, process management, disk info,
     
 3. Send `kill notepad` → terminates all Notepad processes.
     
-4. Send `run calc` → launches Calculator, or `run run "C:\Program Files\VideoLAN\VLC\vlc.exe"` (Additional launch parameters can be used in quotation marks.)
+4. Send `run calc` → launches Calculator, or `run "C:\Program Files\VideoLAN\VLC\vlc.exe"` (Additional launch parameters can be used in quotation marks.)
     
 
 ---
@@ -242,7 +242,7 @@ It supports full-screen screenshots, system info, process management, disk info,
     
 3. Отправьте `kill notepad` → завершает все процессы Notepad.
     
-4. Отправьте `run calc` → запускает Калькулятор, или `run run "C:\Program Files\VideoLAN\VLC\vlc.exe"` (можно использовать дополнительные параметры в кавычках)
+4. Отправьте `run calc` → запускает Калькулятор, или `run "C:\Program Files\VideoLAN\VLC\vlc.exe"` (можно использовать дополнительные параметры в кавычках)
     
 
 ---

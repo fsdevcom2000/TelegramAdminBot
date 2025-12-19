@@ -4,7 +4,7 @@
 
 It supports full-screen screenshots, system info, process management, disk info, ping tests, and more.
 
-⚠️ This script is for educational and cybersecurity lab use only.
+This script is for educational and cybersecurity lab use only.
 Do NOT use on systems you do not own or have permission to test.
 
 ---
@@ -143,6 +143,8 @@ Do NOT use on systems you do not own or have permission to test.
 
 Поддерживает полноэкранные скриншоты, информацию о системе, управление процессами, дисками, проверку сети и запуск приложений.
 
+⚠️ Этот проект предназначен исключительно для образовательных целей и использования в лабораториях кибербезопасности.
+ЗАПРЕЩАЕТСЯ использовать его на системах, которые вам не принадлежат или для тестирования которых у вас нет разрешения.
 ---
 
 ## Возможности

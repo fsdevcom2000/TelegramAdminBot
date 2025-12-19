@@ -3,6 +3,7 @@
 **PowerShell 5.1 compatible** Telegram bot for remote administration and monitoring of Windows machines.
 
 It supports full-screen screenshots, system info, process management, disk info, ping tests, and more.
+
 ⚠️ This script is for educational and cybersecurity lab use only.
 Do NOT use on systems you do not own or have permission to test.
 

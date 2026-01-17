@@ -1,3 +1,15 @@
+# ===============================================================================
+
+# Name: TelegramAdminBot
+# Version: 1.0.0
+# Description: PowerShell 5.1 compatible Telegram bot for remote administration 
+# and monitoring of Windows machines. It supports full-screen screenshots,
+# system info, process management, disk info, ping tests, and more.
+# Author: fsdevcom2000
+# URL: https://github.com/fsdevcom2000/TelegramAdminBot
+
+# ===============================================================================
+
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $ErrorActionPreference = "Continue"
 $ProgressPreference   = "SilentlyContinue"

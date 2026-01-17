@@ -1,4 +1,15 @@
-﻿[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+﻿# ===============================================================================
+
+# Name: TelegramAdminBot (SAFE)
+# Version: 2.0.0
+# Description: PowerShell 5.1 compatible Telegram bot for Windows 
+# Security-focused release with reduced attack surface
+# Author: fsdevcom2000
+# URL: https://github.com/fsdevcom2000/TelegramAdminBot
+
+# ===============================================================================
+
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 $ErrorActionPreference = "Continue"
 $ProgressPreference   = "SilentlyContinue"
